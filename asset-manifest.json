@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/niyo-app/static/css/main.6dfcd059.chunk.css",
-    "main.js": "/niyo-app/static/js/main.b1f9adec.chunk.js",
-    "main.js.map": "/niyo-app/static/js/main.b1f9adec.chunk.js.map",
+    "main.js": "/niyo-app/static/js/main.a562401c.chunk.js",
+    "main.js.map": "/niyo-app/static/js/main.a562401c.chunk.js.map",
     "runtime-main.js": "/niyo-app/static/js/runtime-main.a9d53608.js",
     "runtime-main.js.map": "/niyo-app/static/js/runtime-main.a9d53608.js.map",
-    "static/js/2.f2eb5761.chunk.js": "/niyo-app/static/js/2.f2eb5761.chunk.js",
-    "static/js/2.f2eb5761.chunk.js.map": "/niyo-app/static/js/2.f2eb5761.chunk.js.map",
+    "static/js/2.38c22326.chunk.js": "/niyo-app/static/js/2.38c22326.chunk.js",
+    "static/js/2.38c22326.chunk.js.map": "/niyo-app/static/js/2.38c22326.chunk.js.map",
     "index.html": "/niyo-app/index.html",
-    "precache-manifest.7ecc4d4ec767dfd737b789965bb09866.js": "/niyo-app/precache-manifest.7ecc4d4ec767dfd737b789965bb09866.js",
+    "precache-manifest.e478f46a4423b87fd1a3a1eb5da69537.js": "/niyo-app/precache-manifest.e478f46a4423b87fd1a3a1eb5da69537.js",
     "service-worker.js": "/niyo-app/service-worker.js",
     "static/css/main.6dfcd059.chunk.css.map": "/niyo-app/static/css/main.6dfcd059.chunk.css.map",
-    "static/js/2.f2eb5761.chunk.js.LICENSE.txt": "/niyo-app/static/js/2.f2eb5761.chunk.js.LICENSE.txt"
+    "static/js/2.38c22326.chunk.js.LICENSE.txt": "/niyo-app/static/js/2.38c22326.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a9d53608.js",
-    "static/js/2.f2eb5761.chunk.js",
+    "static/js/2.38c22326.chunk.js",
     "static/css/main.6dfcd059.chunk.css",
-    "static/js/main.b1f9adec.chunk.js"
+    "static/js/main.a562401c.chunk.js"
   ]
 }

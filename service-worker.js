@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/niyo-app/precache-manifest.7ecc4d4ec767dfd737b789965bb09866.js"
+  "/niyo-app/precache-manifest.e478f46a4423b87fd1a3a1eb5da69537.js"
 );
 
 self.addEventListener('message', (event) => {
