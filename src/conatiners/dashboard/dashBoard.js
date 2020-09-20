@@ -83,10 +83,6 @@ class DashBoard extends React.Component {
         const filterDetails = [{ key: 'all', value: 'All' }, { key: 'movies', value: 'Movies' }, { key: 'series', value: 'Series' }, { key: 'episods', value: 'Episods' }];
         return (
             <Grid container justify={'center'} >
-                <Grid container item xs={6} justify={'space-between'} className={classes.header}>
-                    <span>Home</span>
-                    <span onClick={() => { alert('Fav list') }}><FavouriteIcon /></span>
-                </Grid>
                 <Grid item xs={12}>
                     <Grid container justify={'center'}>
                         <Grid item xs={11} sm={8} md={6}>
